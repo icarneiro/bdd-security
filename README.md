@@ -35,3 +35,6 @@ Legacy JBehave version is available on the jbehave branch
 - Moved the OWASP ZAP false positives to tables/zap.false_positives.table
 - Fixed bug in the portscan story
 - Enabled portscanning of multiple hosts
+
+
+[![](http://codescene.io/projects/2397/status.svg) Get more details at **codescene.io**.](http://codescene.io/projects/2397/jobs/latest-successful/results)
